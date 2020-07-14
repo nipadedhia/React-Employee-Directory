@@ -1,13 +1,13 @@
 .table tbody tr:nth-child(2n + 1) {
-  background-color: #ffeef4;
+  background-color: #eeffff;
 }
 
 .jumbotron {
-  background-color: #ff9a8b;
+  background-color: #b48bff;
   background-image: linear-gradient(
     135deg,
-    #ff9a8b 0%,
-    #ff6a88 55%,
-    #ff99ac 100%
+    #b48bff 0%,
+    #b48bff 55%,
+    #b48bff 100%
   );
 }
