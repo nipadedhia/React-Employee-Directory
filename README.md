@@ -1,3 +1,7 @@
+## Employee Directory
+
+This React-based app demonstrates an employee directory that can be searched and sorted. The directory is filled via an API call to Random User Generator. Entering text into the search box will dynamically search all fields and filter those who match the entered text.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
