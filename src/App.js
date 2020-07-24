@@ -6,7 +6,11 @@ function App() {
   return (
     <Router>
       <div>
-        <Route exact path="/" component={Directory} />
+        <Route
+          exact
+          path={process.env.PUBLIC_URL + "/"}
+          component={Directory}
+        />
       </div>
     </Router>
   );
